@@ -29,9 +29,9 @@ end until test1.to_i == 3
 #     test1 = first_test
 # end
 
-until test2.to_i == 2
-    puts "Try again!"
-    test2 = second_test
-end
+# until test2.to_i == 2
+#     puts "Try again!"
+#     test2 = second_test
+# end
 
 puts "Awesome job! You get a lolly."
